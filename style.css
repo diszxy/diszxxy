@@ -1,0 +1,25 @@
+.audio{
+	width: 90%;
+	outline-style: none;
+	opacity: .5;
+}
+.judul-lagu{
+	font-family: arial;
+	font-weight: bold;
+	margin-top: 35px;
+	color: rgb(255, 255, 255);
+	font-size: 40px;
+}
+body{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100vh;
+	background: black url(anime.jpg) no-repeat;
+	box-sizing: border-box;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-size: cover;
+	background-image: gambar.jpg;
+}
